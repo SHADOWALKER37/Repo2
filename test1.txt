@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est B46D-6E32
+
+ R‚pertoire de C:\Users\abdou khadre thiam\Desktop\MyProject
+
+06/05/2019  16:09    <DIR>          .
+06/05/2019  16:09    <DIR>          ..
+06/05/2019  16:09                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)   9ÿ057ÿ558ÿ528 octets libres
